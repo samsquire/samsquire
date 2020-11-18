@@ -2,8 +2,8 @@
 
 I'm a devops software engineer with advanced skills in Python, Java, Javascript, Terraform.
 
-- 🔭 I’m currently working on [**fact-collector**](https://github.com/samsquire/fact-collector)
-- 🌱 I’m currently learning Prolog
+- 🔭 I’m currently working on [ideas3](https://github.com/samsquire/ideas3)
+- 🌱 I’m currently looking for remote work
 - 👯 I’m looking to collaborate on my ideas
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ideas
