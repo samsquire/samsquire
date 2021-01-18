@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a devops software engineer with advanced skills in Python, Java, Javascript, Terraform.
+I'm a devops software engineer with advanced skills in Python, Java, Javascript, Terraform. See my [personal-manifesto](https://github.com/samsquire/personal-manifesto).
 
 - 🔭 I’m currently working on [startups](https://github.com/samsquire/startups)
 - 🌱 I’m currently looking for remote work
