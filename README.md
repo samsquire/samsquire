@@ -2,7 +2,7 @@
 
 I'm a devops software engineer with advanced skills in Python, Java, Javascript, Terraform. See my [personal-manifesto](https://github.com/samsquire/personal-manifesto). See my [wants repository](https://github.com/samsquire/wants) and [my dream for society](https://github.com/samsquire/society). See [my blog](https://elaeis.cloud-angle.com/).
 
-- 🔭 I’m currently working on [hashdb](https://github.com/samsquire/hash-db) and [ideas4](https://github.com/samsquire/ideas4)
+- 🔭 I’m currently working on [hash-db](https://github.com/samsquire/hash-db) and [ideas4](https://github.com/samsquire/ideas4)
 - 🌱 I’m currently looking for remote work
 - 👯 I’m looking to talk about my ideas
 - 🤔 I’m looking for help with ...
