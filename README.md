@@ -2,7 +2,7 @@
 
 I'm a devops software engineer with advanced skills in Python, Java, Javascript, Terraform. See my [personal-manifesto](https://github.com/samsquire/personal-manifesto). See my [wants repository](https://github.com/samsquire/wants) and [my dream for society](https://github.com/samsquire/society).
 
-I am interested in distributed systems, database architecture and internals, programming language design, algorithms and data structures. You shall find various straightforward, readable implementations of various algorithms on my Github profile. Change the dropdown types field to 'Sources' to see things I created.
+I am interested in distributed systems, database architecture and internals, programming language design, algorithms and data structures. You shall find various straightforward, simple implementations of various algorithms on my Github profile. Change the dropdown types field to 'Sources' to see things I created.
 
 - 🔭 I’m currently working on [hash-db](https://github.com/samsquire/hash-db) and [ideas4](https://github.com/samsquire/ideas4)
 - 🌱 I’m currently looking for remote work
