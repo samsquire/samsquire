@@ -15,6 +15,7 @@ I am interested in distributed systems, database architecture and internals, pro
 
 # Whitepapers I like
 
+* Left-Right: A Concurrency Control Technique with Wait-Free Population Oblivious Reads
 * Merkle-DAGs meet CRDTs
 * Serializable Snapshot Isolation
 * [Near Real-Time Peer-to-Peer Shared Editing on Extensible Data Types](https://www.researchgate.net/publication/310212186_Near_Real-Time_Peer-to-Peer_Shared_Editing_on_Extensible_Data_Types)
