@@ -15,6 +15,7 @@ I am interested in distributed systems, parallelism, concurrency, database archi
 
 # Whitepapers I like
 
+* An O(ND) Algorithm and its Validation
 * Left-Right: A Concurrency Control Technique with Wait-Free Population Oblivious Reads
 * Merkle-DAGs meet CRDTs
 * Serializable Snapshot Isolation
