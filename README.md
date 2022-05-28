@@ -4,7 +4,7 @@ I'm a devops software engineer with advanced skills in Python, Java, Javascript,
 
 I am interested of distributed systems, parallelism, concurrency, database architecture and internals, programming language design, algorithms and data structures. You shall find various straightforward, simple implementations of various algorithms on my Github profile. Change the dropdown types field to 'Sources' to see things I created.
 
-Some highlights - I implemented a [three way merge diff algorithm based on Myers work](HTTPS://GitHub.com/samsquire/text-diff). A [distributed keystore database](HTTPS://GitHub com/samsquire/hash-db) and a [mazzle build server](HTTPS://devops-pipeline.com). I also implemented a [merkle CRDT](HTTPS://GitHub.com/samsquire/merkle-crdt) and part of the [YATA text merging algorithm](HTTPS://GitHub.com/samsquire/yata).
+Some highlights - I implemented a [three way merge diff algorithm based on Myers algorithm](HTTPS://GitHub.com/samsquire/text-diff). A [distributed keystore database](HTTPS://GitHub.com/samsquire/hash-db) and a [mazzle build server](HTTPS://devops-pipeline.com). I also implemented a [merkle CRDT](HTTPS://GitHub.com/samsquire/merkle-crdt) and part of the [YATA text merging algorithm](HTTPS://GitHub.com/samsquire/yata).
 
 - 🔭 I’m currently working on [hash-db](https://github.com/samsquire/hash-db) and [ideas4](https://github.com/samsquire/ideas4)
 - 🌱 I’m currently looking for remote work
