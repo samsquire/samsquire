@@ -6,7 +6,7 @@ I am interested of distributed systems, parallelism, concurrency, database archi
 
 Some highlights - I implemented a [three way merge diff algorithm based on Myers algorithm](HTTPS://GitHub.com/samsquire/text-diff). A [distributed keystore database](HTTPS://GitHub.com/samsquire/hash-db) and a [mazzle build server](HTTPS://devops-pipeline.com). I also implemented a [merkle CRDT](HTTPS://GitHub.com/samsquire/merkle-crdt) and part of the [YATA text merging algorithm](HTTPS://GitHub.com/samsquire/yata).
 
-- 🔭 I’m currently working on [hash-db](https://github.com/samsquire/hash-db) and [ideas4](https://github.com/samsquire/ideas4)
+- 🔭 I’m currently working on [hash-db](https://github.com/samsquire/hash-db), [text-diff](HTTPS://GitHub.com/samsquire/text-diff) and [ideas4](https://github.com/samsquire/ideas4)
 - 🌱 I’m currently looking for remote work
 - 👯 I’m looking to talk about my ideas
 - 🤔 I’m looking for help with ...
