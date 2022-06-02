@@ -25,6 +25,7 @@ Some highlights - I implemented a [three way merge diff algorithm based on Myers
 * PolarDB Serverless: A Cloud Native Database for Disaggregated Data Centers
 * SplinterDB: Closing the Bandwidth Gap for NVMe Key-Value Stores
 * Communicating Sequential Processes
+* [Lock-Free Multi-Producer Multi-Consumer Queue on Ring Buffer by Alexander Krizhanovsky](https://www.linuxjournal.com/content/lock-free-multi-producer-multi-consumer-queue-ring-buffer)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsquire%2Fsamsquire&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
