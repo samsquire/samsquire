@@ -29,5 +29,6 @@ Some highlights - I implemented a [three way merge diff algorithm based on Myers
 * How to Architect a Query Compiler
 * A Gentle(-ish) Introduction to Worst-Case Optimal Joins
 * A methodology for implementing highly concurrent data structures
+* ZooKeeper’s atomic broadcast protocol: Theory and practice
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsquire%2Fsamsquire&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
