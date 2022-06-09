@@ -31,5 +31,6 @@ Some highlights - I implemented a [three way merge diff algorithm based on Myers
 * A methodology for implementing highly concurrent data structures
 * ZooKeeper’s atomic broadcast protocol: Theory and practice
 * Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3
+* In Search of an Understandable Consensus Algorithm (Extended Version)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsquire%2Fsamsquire&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
