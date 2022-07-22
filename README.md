@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Are you looking for a devops software engineer? Send me an email.
+
 I'm a devops software engineer with advanced skills in Python, Java, Javascript, Terraform. See my [personal-manifesto](https://github.com/samsquire/personal-manifesto). See my [wants repository](https://github.com/samsquire/wants) and [my dream for society](https://github.com/samsquire/society).
 
 I am interested of distributed systems, parallelism, concurrency, lockfree algorithms, database architecture and internals, programming language design, algorithms and data structures. You shall find various straightforward, simple implementations of various algorithms on my Github profile. Change the dropdown types field to 'Sources' to see things I created.
