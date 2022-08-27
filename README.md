@@ -39,5 +39,6 @@ Some highlights - I implemented a [three way merge diff algorithm based on Myers
 * Reading Types in C Using the Right Left Walk Method
 * [Stateful Dataflow Multigraphs: A Data-Centric Model for Performance Portability on Heterogeneous Architectures](http://www.arxiv.org/abs/1902.10345)
 * [Scalability! But at what cost? ](http://www.frankmcsherry.org/assets/COST.pdf)
+* [Wait-Free Queues With Multiple Enqueuers and Dequeuers](https://www.cs.technion.ac.il/~erez/Papers/wfquque-ppopp.pdf)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsquire%2Fsamsquire&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
