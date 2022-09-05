@@ -41,5 +41,6 @@ Some highlights - I implemented a [three way merge diff algorithm based on Myers
 * [Scalability! But at what cost? ](http://www.frankmcsherry.org/assets/COST.pdf)
 * [Wait-Free Queues With Multiple Enqueuers and Dequeuers](https://www.cs.technion.ac.il/~erez/Papers/wfquque-ppopp.pdf)
 * [A Wait-free Queue as Fast as Fetch-and-Add](http://chaoran.me/assets/pdf/wfq-ppopp16.pdf)
+* Know Your Limits by Igor L. Markov
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsquire%2Fsamsquire&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
