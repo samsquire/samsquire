@@ -17,6 +17,7 @@ Some highlights - I implemented a [three way merge diff algorithm based on Myers
 - 💬 Ask me about ideas
 - 📫 How to reach me: sam@samsquire.com
 - ⚡ Fun fact: 
+- [My Hacker News comments](https://news.ycombinator.com/threads?id=samsquire)
 -->
 
 # Whitepapers I like
