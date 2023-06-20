@@ -56,5 +56,6 @@ Some highlights - I implemented a [three way merge diff algorithm based on Myers
 * [Efficiently Compiling Efficient Query Plans for Modern Hardware](https://www.vldb.org/pvldb/vol4/p539-neumann.pdf)
 * [Structured Asynchrony with Algebraic Effects](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/asynceffects-msr-tr-2017-21.pdf)
 * [Keeping CALM: When Distributed Consistency is Easy](https://arxiv.org/pdf/1901.01930.pdf)
+* [Simple and Effective Type Check Removal through Lazy Basic Block Versioning](https://drops.dagstuhl.de/opus/volltexte/2015/5219/pdf/9.pdf)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamsquire%2Fsamsquire&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
