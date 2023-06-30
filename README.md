@@ -14,6 +14,7 @@ Some highlights of what I am building:
 |JIT compiler|C & Assembly|A amd64/x86-64 JIT compiler for a Javascript-like language|[samsquire/compiler](https://github.com/samsquire/compiler)|
 |Live interface|Javascript, nodejs, Pouch, Ruby, Python|An interactive environment for writing documents that are inter-referential|[samsquire/liveinterface](https://github.com/samsquire/liveinterface)|
 |Mazzle & mazzle-starter|React, Python, Kubernetes, Hashicorp Vault/Consul/Packer, Prometheus, Kibana|A command line tool for bringing up environments with Terraform|[samsquire/mazzle](https://github.com/samsquire/mazzle) [samsquire/mazzle-starter](https://github.com/samsquire/mazzle-starter) [homepage](https://devops-pipeline.com/)|
+|Distributed pseudomultimodal (SQL/Graph/Document/DynamoDB-like) Database|Python, Flask|A toy multimodal distributed database that uses Rockset converged indexes|[samsquire/hash-db](HTTPS://GitHub.com/samsquire/hash-db)|
 
 I wrote a [toy amd64 in Python and JIT compiler in C](https://github.com/samsquire/compiler) and the [beginnings of a browser engine](https://github.com/samsquire/browser) 
 
