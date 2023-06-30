@@ -11,7 +11,7 @@ Some highlights of what I am building:
 |Project|Description|Link|
 |---|---|---|
 |Automated Assembly Program Synthesis in Python|I implemented the A* algorithm and run it in parallel to do code generation to automate the synthesis of programs between states.|[samsquire/sliding-puzzle-codegen-memory](https://github.com/samsquire/sliding-puzzle-codegen-memory)|
-|JIT compiler & toy compiler, C, machine code, assembly, Python|An amd64/x86-64 JIT compiler for a Javascript-like language and a Python expression compiler|[samsquire/compiler](https://github.com/samsquire/compiler)|
+|JIT compiler in, C & machine code and assembly expression compiler in Python|An amd64/x86-64 JIT compiler for a Javascript-like language and a Python expression compiler|[samsquire/compiler](https://github.com/samsquire/compiler)|
 |Interactive Document editor in Javascript, nodejs, Pouch, Ruby, Python|An interactive environment for writing documents that are inter-referential|[samsquire/liveinterface](https://github.com/samsquire/liveinterface)|
 |Pipelined Build server in React, Python, Kubernetes, Hashicorp Vault/Consul/Packer, Prometheus, Kibana|A command line tool for bringing up environments with Terraform|[samsquire/mazzle](https://github.com/samsquire/mazzle) [samsquire/mazzle-starter](https://github.com/samsquire/mazzle-starter) [homepage](https://devops-pipeline.com/)|
 |Distributed pseudomultimodal (SQL/Graph/Document/DynamoDB-like) Database in Python, Flask|A toy multimodal distributed database that uses Rockset converged indexes|[samsquire/hash-db](HTTPS://GitHub.com/samsquire/hash-db)|
