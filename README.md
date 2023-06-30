@@ -1,12 +1,16 @@
 ### Hi there 👋
 
+I am a futuristic software engineer.
+
+I am interested of distributed systems, parallelism, concurrency, lockfree algorithms, database architecture and internals, programming language design, algorithms and data structures. You shall find various straightforward, simple implementations of various algorithms on my Github profile. Change the dropdown types field to 'Sources' to see things I created.
+
 Are you looking for a devops software engineer? Send me an email.
 
-I am a futuristic software engineer.
+
 
 I'm a devops software engineer with skills in Python, Java, Javascript, Terraform. See my [personal-manifesto](https://github.com/samsquire/personal-manifesto).
 
-I am interested of distributed systems, parallelism, concurrency, lockfree algorithms, database architecture and internals, programming language design, algorithms and data structures. You shall find various straightforward, simple implementations of various algorithms on my Github profile. Change the dropdown types field to 'Sources' to see things I created.
+
 
 Some highlights of what I am building:
 
