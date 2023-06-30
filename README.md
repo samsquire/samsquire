@@ -11,10 +11,10 @@ Some highlights of what I am building:
 |Project|Ingredients|Description|Link|
 |---|---|---|---|
 |Automated Program Synthesis|Python, Assembly|I implemented the A* algorithm and run it in parallel to do code generation to automate the synthesis of programs between states.|[samsquire/sliding-puzzle-codegen-memory](https://github.com/samsquire/sliding-puzzle-codegen-memory)|
-|JIT compiler|C & Assembly|A amd64/x86-64 JIT compiler for a Javascript-like language|[samsquire/compiler](https://github.com/samsquire/compiler)|
-|Live interface|Javascript, nodejs, Pouch, Ruby, Python|An interactive environment for writing documents that are inter-referential|[samsquire/liveinterface](https://github.com/samsquire/liveinterface)|
-|Mazzle & mazzle-starter|React, Python, Kubernetes, Hashicorp Vault/Consul/Packer, Prometheus, Kibana|A command line tool for bringing up environments with Terraform|[samsquire/mazzle](https://github.com/samsquire/mazzle) [samsquire/mazzle-starter](https://github.com/samsquire/mazzle-starter) [homepage](https://devops-pipeline.com/)|
-|Distributed pseudomultimodal (SQL/Graph/Document/DynamoDB-like) Database|Python, Flask|A toy multimodal distributed database that uses Rockset converged indexes|[samsquire/hash-db](HTTPS://GitHub.com/samsquire/hash-db)|
+|JIT compiler & toy compiler, C, machine code, assembly, Python|An amd64/x86-64 JIT compiler for a Javascript-like language and a Python expression compiler|[samsquire/compiler](https://github.com/samsquire/compiler)|
+|Interactive Document editor, Javascript, nodejs, Pouch, Ruby, Python|An interactive environment for writing documents that are inter-referential|[samsquire/liveinterface](https://github.com/samsquire/liveinterface)|
+|Mazzle & mazzle-starter, React, Python, Kubernetes, Hashicorp Vault/Consul/Packer, Prometheus, Kibana|A command line tool for bringing up environments with Terraform|[samsquire/mazzle](https://github.com/samsquire/mazzle) [samsquire/mazzle-starter](https://github.com/samsquire/mazzle-starter) [homepage](https://devops-pipeline.com/)|
+|Distributed pseudomultimodal (SQL/Graph/Document/DynamoDB-like) Database Python, Flask|A toy multimodal distributed database that uses Rockset converged indexes|[samsquire/hash-db](HTTPS://GitHub.com/samsquire/hash-db)|
 
 I wrote a [toy amd64 in Python and JIT compiler in C](https://github.com/samsquire/compiler) and the [beginnings of a browser engine](https://github.com/samsquire/browser) 
 
