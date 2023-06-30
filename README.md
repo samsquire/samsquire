@@ -8,7 +8,7 @@ I am interested of distributed systems, parallelism, concurrency, lockfree algor
 
 Some highlights of what I am building:
 
-|Project|Ingredients|Description|Link|
+|Project|Description|Link|
 |---|---|---|
 |Automated Program SynthesisPython, Assembly|I implemented the A* algorithm and run it in parallel to do code generation to automate the synthesis of programs between states.|[samsquire/sliding-puzzle-codegen-memory](https://github.com/samsquire/sliding-puzzle-codegen-memory)|
 |JIT compiler & toy compiler, C, machine code, assembly, Python|An amd64/x86-64 JIT compiler for a Javascript-like language and a Python expression compiler|[samsquire/compiler](https://github.com/samsquire/compiler)|
