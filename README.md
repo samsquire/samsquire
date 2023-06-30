@@ -15,6 +15,12 @@ Some highlights of what I am building:
 |Interactive Document editor (Javascript, nodejs, Pouch, Ruby, Python)|An interactive environment for writing documents that are inter-referential|[samsquire/liveinterface](https://github.com/samsquire/liveinterface)|
 |Pipelined Graphical Build server and GUI (React, Python, Kubernetes, Hashicorp Vault/Consul/Packer, Prometheus, Kibana)|A command line tool with GUI for bringing up environments with Terraform|[samsquire/mazzle](https://github.com/samsquire/mazzle) [samsquire/mazzle-starter](https://github.com/samsquire/mazzle-starter) [homepage](https://devops-pipeline.com/)|
 |Distributed pseudomultimodal (SQL/Graph/Document/DynamoDB-like) Database (Python, Flask)|A toy multimodal distributed database that uses Rockset converged indexes|[samsquire/hash-db](HTTPS://GitHub.com/samsquire/hash-db)|
+|Journal #1: 100 Ideas for Computing|A journal of ideas for computing|[samsquire/ideas](https://github.com/samsquire/ideas)|
+|Journal #2: Another 85+ Ideas for Computing #2|A journal of ideas for computing|[samsquire/ideas2](https://github.com/samsquire/ideas2)|
+|Journal #3: An Extra 100 Ideas for Computing #3|A journal of ideas for computing|[samsquire/ideas3](https://github.com/samsquire/ideas3)|
+|Journal #4: Additional 100 Ideas for Computing #4|A journal of ideas for computing|[samsquire/ideas4](https://github.com/samsquire/ideas4)|
+|Journal #5: Ideas for Computing|A journal of ideas for computing|[samsquire/ideas5](https://github.com/samsquire/ideas5)|
+|Blog: tech blog|A blog of thoughts|[samsquire/blog](https://github.com/samsquire/blog)|
 
 I wrote a [toy amd64 in Python and JIT compiler in C](https://github.com/samsquire/compiler) and the [beginnings of a browser engine](https://github.com/samsquire/browser) 
 
