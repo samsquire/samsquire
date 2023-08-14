@@ -22,7 +22,7 @@ Some highlights of what I am building:
 |Pipelined Graphical Build server and GUI (React, Python, Kubernetes, Hashicorp Vault/Consul/Packer, Prometheus, Kibana)|A command line tool with GUI for bringing up environments with Terraform|[samsquire/mazzle](https://github.com/samsquire/mazzle) [samsquire/mazzle-starter](https://github.com/samsquire/mazzle-starter) [homepage](https://devops-pipeline.com/)|
 |Distributed pseudomultimodal (SQL/Graph/Document/DynamoDB-like) Database (Python, Flask)|A toy multimodal distributed database that uses Rockset converged indexes|[samsquire/hash-db](HTTPS://GitHub.com/samsquire/hash-db)|
 |3-way text diff (Python)|A 3-way text differ based on Myers algorithm|[samsquire/text-diff](https://github.com/samsquire/text-diff)|
-|Eventually consistent replication protocol (Python)|A epoll based Python server that asynchronously replicates
+|Eventually consistent replication protocol (Python)|A epoll based Python server that asynchronously replicates|[samsquire/eventually-consistent-mesh](https://github.com/samsquire/eventually-consistent-mesh)|
 |Journal #1: 100 Ideas for Computing|A journal of ideas for computing|[samsquire/ideas](https://github.com/samsquire/ideas)|
 |Journal #2: Another 85+ Ideas for Computing #2|A journal of ideas for computing|[samsquire/ideas2](https://github.com/samsquire/ideas2)|
 |Journal #3: An Extra 100 Ideas for Computing #3|A journal of ideas for computing|[samsquire/ideas3](https://github.com/samsquire/ideas3)|
