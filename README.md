@@ -2,7 +2,7 @@
 
 I am a futuristic software engineer.
 
-I am interested of distributed systems, parallelism, concurrency, lockfree algorithms, database architecture and internals, programming language design, algorithms and data structures. You shall find various straightforward, simple implementations of various algorithms on my Github profile. Change the dropdown types field to 'Sources' to see things I created.
+I am interested of distributed systems, parallelism, concurrency, lockfree algorithms, database architecture and internals, programming language design, algorithms and data structures. You shall find various straightforward, simple implementations of various algorithms on my Github profile. Change the dropdown types field to 'Sources' to see things I created. My code is Zero Clause BSD licenced.
 
 Are you looking for a devops software engineer? Send me an email.
 
