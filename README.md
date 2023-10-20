@@ -20,7 +20,7 @@ Some highlights of what I am building:
 |JIT compiler (C & machine code) Assembly expression compiler (Python)|An amd64/x86-64 JIT compiler for a Javascript-like language and a Python expression compiler|[samsquire/compiler](https://github.com/samsquire/compiler)|
 |Interactive Document editor (Javascript, nodejs, Pouch, Ruby, Python)|An interactive environment for writing documents that are inter-referential|[screenshots samsquire/liveinterface](https://github.com/samsquire/liveinterface) [project samsquire/live-interface](https://github.com/samsquire/live-interface)|
 |Pipelined Graphical Build server and GUI (React, Python, Kubernetes, Hashicorp Vault/Consul/Packer, Prometheus, Kibana)|A command line tool with GUI for bringing up environments with Terraform|[samsquire/mazzle](https://github.com/samsquire/mazzle) [samsquire/mazzle-starter](https://github.com/samsquire/mazzle-starter) [homepage](https://devops-pipeline.com/)|
-|C Parser|A parser for the C programming language|[samsquire/c-parser](https://github.com/samsquire/c-parser)|
+|C Parser|An incomplete parser for the C programming language|[samsquire/c-parser](https://github.com/samsquire/c-parser)|
 |Multithreaded nonblocking barrier runtime|A C program that runs tasks in threads without locks for high throughput|[samsquire/assembly](https://github.com/samsquire/assembly)|
 |Distributed pseudomultimodal (SQL/Graph/Document/DynamoDB-like) Database (Python, Flask)|A toy multimodal distributed database that uses Rockset converged indexes|[samsquire/hash-db](HTTPS://GitHub.com/samsquire/hash-db)|
 |3-way text diff (Python)|A 3-way text differ based on Myers algorithm|[samsquire/text-diff](https://github.com/samsquire/text-diff)|
