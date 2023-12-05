@@ -39,7 +39,7 @@ I wrote a [toy amd64 in Python and JIT compiler in C](https://github.com/samsqui
 
 I implemented a [three way merge diff algorithm based on Myers algorithm](HTTPS://GitHub.com/samsquire/text-diff). A [distributed pseudo multimodal keystore database](HTTPS://GitHub.com/samsquire/hash-db) and a [mazzle build server](HTTPS://devops-pipeline.com). I also implemented a [merkle CRDT](HTTPS://GitHub.com/samsquire/merkle-crdt) and part of the [YATA text merging algorithm](HTTPS://GitHub.com/samsquire/yata).
 
-- 🔭 I’m currently working on [ideas4](https://github.com/samsquire/ideas4) and [eventually-consistent-mesh](https://github.com/samsquire/eventually-consistent-mesh)
+- 🔭 I’m currently working on [ideas5](https://github.com/samsquire/ideas5), [compiler](https://github.com/samsquire/compiler) and [assembly](https://github.com/samsquire/assembly)
 - 🌱 I’m currently looking for remote work
 - 👯 I’m looking to talk about my ideas
 - 🤔 I’m looking for help with ...
